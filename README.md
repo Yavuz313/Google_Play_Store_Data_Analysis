@@ -44,7 +44,5 @@ The project also explores specific research questions, including:
 ## Contributing <a id="contributing"></a>
 Contributions are welcome! Please fork this repository and submit a pull request with your proposed changes.
 
-## License <a id="license"></a>
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
