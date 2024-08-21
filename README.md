@@ -1,5 +1,3 @@
-Proje, Google Play Store uygulama verisi üzerinde Keşifsel Veri Analizi (EDA) ve Veri Görselleştirme işlemlerini gerçekleştirmeyi amaçlıyor. Notebook dosyasını incelediğim kadarıyla, README dosyasında şu ana başlıklara yer verebilirsin:
-
 ---
 
 # Google Play Store Data Analysis
