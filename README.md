@@ -10,8 +10,6 @@ This project demonstrates how to perform Exploratory Data Analysis (EDA) and Dat
 - [Exploratory Data Analysis (EDA)](#eda)
 - [Research Questions and Insights](#research-questions)
 - [Contributing](#contributing)
-- [License](#license)
-
 ## Installation <a id="installation"></a>
 To run this project, you need to install the following Python libraries:
 
@@ -22,7 +20,7 @@ To run this project, you need to install the following Python libraries:
 - missingno
 - plotly
 - folium
-`
+
 
 ## Dataset <a id="dataset"></a>
 The dataset used in this project is a CSV file named `googleplaystore.csv`, which contains information about various apps available on Google Play Store. The dataset includes features like app name, category, rating, reviews, size, installs, and more.
